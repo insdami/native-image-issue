@@ -30,3 +30,5 @@ Caused by: java.lang.NoSuchMethodException: no such method: scala.Symbol.apply(S
 	at scala.runtime.SymbolLiteral.bootstrap(SymbolLiteral.java:27)
 	... 11 more
 ```
+
+Reported on https://github.com/scalameta/sbt-native-image/issues/79
